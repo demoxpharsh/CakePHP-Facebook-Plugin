@@ -3,7 +3,6 @@
 * http://www.webtechnick.com
 * license: MIT
 * version: 3.1.1
-* Co-Other DemoXPHARSH
 
 The purpose of the Facebook plugin is to provide a seamless way to connect your cakePHP app to everyone's favorite social networking site -- Facebook. The goal for this plugin is to not only provide extremely useful dynamic features but to also provide a complete interface to the Facebook API.
 
